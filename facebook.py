@@ -21,7 +21,7 @@ campo_email= browser.find_element(By.NAME, 'email')
 # Clicar
 campo_email.click()
 # Digitar
-campo_email.send_keys('seuemail@hotmail.com')
+campo_email.send_keys('seuemail')
 # Aguarda a página carregar
 
 #Encontrar elemento senha
